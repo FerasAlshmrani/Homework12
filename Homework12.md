@@ -1,7 +1,7 @@
 
 ## 1
 
-![[pngs/png1.png]]
+![png1](https://github.com/FerasAlshmrani/Homework12/assets/101283810/3ed53b4a-53f6-4437-9456-cb7d4d57b5e2)
 
 The output is :
 ```
@@ -14,7 +14,7 @@ it shows only the System.out.println();
 
 ## 2
 
-![[pngs/png2.png]]
+![png2](https://github.com/FerasAlshmrani/Homework12/assets/101283810/759deeb4-8bf4-44fe-949f-654bb3898a23)
 
 The output is :
 ```
@@ -27,7 +27,7 @@ IT HAS TO BE IN THIS ORDER
 
 ## 3
 
-![[pngs/png3.png]]
+![png3](https://github.com/FerasAlshmrani/Homework12/assets/101283810/fc2ccdb2-c45d-4990-8d41-e0b1e1b73ef1)
 
 we don't know who will start first between 
 getMessage1() and getMessage3()
@@ -50,9 +50,8 @@ hey from message2
 --------------------------------------------
 ## 4
 
-![[pngs/png4.png]]
-![[pngs/png5.png]]
-
+![png4](https://github.com/FerasAlshmrani/Homework12/assets/101283810/8118888d-1edc-4591-a2ee-f9a0085f17bb)
+![png5](https://github.com/FerasAlshmrani/Homework12/assets/101283810/a8916e89-4622-4ed4-b365-1995bac21de3)
 
 we don't know who will start first between 
 getMessage1 and getMessage3
@@ -79,8 +78,9 @@ hey from message1
 ------------------------------
 
 ## 5
-![[png6.png]]
-![[pngs/png7.png]]
+
+![png6](https://github.com/FerasAlshmrani/Homework12/assets/101283810/e4581c25-cf3e-49b3-8151-3eae344dfb3a)
+![png7](https://github.com/FerasAlshmrani/Homework12/assets/101283810/48a91e51-519d-4f50-bef1-7b3d05ba0e7b)
 
 we dont know who will start first between 
 getMessage1 and getMessage3
